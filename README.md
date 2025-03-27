@@ -71,7 +71,7 @@
     
     <script>
         function verificarCodigo() {
-            const codigoCorrecto = "3643"; // Cambia esto a la combinación que desees
+            const codigoCorrecto = "6648"; // Cambia esto a la combinación que desees
             const inputCodigo = document.getElementById("codigo").value.trim(); // Elimina espacios adicionales
             console.log("Código ingresado:", inputCodigo); // Muestra el código en la consola para depuración
             if (inputCodigo === codigoCorrecto) {
